@@ -9,7 +9,7 @@ const fontSans = FontSans({
   variable: "--font-sans",
 });
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
   title: 'LiveDocs',
   description: 'Your go-to collaborative editor',
 
