@@ -343,7 +343,6 @@ pre::-webkit-scrollbar-thumb {
 .toolbar button.toolbar-item.spaced {
   margin-right: 2px;
 }
-
 .toolbar button.toolbar-item i.format {
   background-size: contain;
   display: inline-block;
